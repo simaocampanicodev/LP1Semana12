@@ -23,6 +23,7 @@ namespace HowManyOfThisType
             Console.WriteLine($"Inteiros: {countInts}");
             Console.WriteLine($"Strings: {countStrings}");
             Console.WriteLine("Merci d'utiliser ce programme!");
+            Console.WriteLine("Obrigado por ter usado este programa!");
         }
     }
 }
